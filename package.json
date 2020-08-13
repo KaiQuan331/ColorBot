@@ -1,0 +1,14 @@
+{
+  "name": "colorbot",
+  "version": "1.0.0",
+  "description": "Bot for color",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Quander",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
